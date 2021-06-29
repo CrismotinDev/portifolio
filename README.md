@@ -9,5 +9,17 @@ O controle das tarefas desse projeto será realizado no Github
 
 - :package: nova funcionalidade 
 - :up: atualização
-- :beatle: correção de bug
+-      correção de bug
 - :checkered_flag: release
+
+# Conhecimentos
+
+- css
+- javascript
+- react
+- html
+- mysql
+- java
+- spring boot
+- bootstrap
+
